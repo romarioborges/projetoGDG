@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Configurações</string>
+    <string name="label_weight">Peso</string>
+    <string name="label_tallness">Altura</string>
+    <string name="btn_evaluate">Calcular</string>
+    <string name="label_kilograms">Kg</string>
+    <string name="label_meters">mts.</string>
+    <string name="app_name">IMC</string>
+    <string name="hello_world">Olá mundo!</string>
+    <string name="title_activity_result">Resultado</string>
+</resources>

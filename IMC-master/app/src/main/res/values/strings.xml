@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_weight">Weight</string>
+    <string name="label_tallness">Tallness</string>
+    <string name="btn_evaluate">Evaluate</string>
+    <string name="label_kilograms">Kg</string>
+    <string name="label_meters">m</string>
+    <string name="title_activity_result">Result</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="image_result">Result Image</string>
+</resources>
